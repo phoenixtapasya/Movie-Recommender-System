@@ -1,10 +1,10 @@
-A Content-Based Movie Recommendation System using Cosine Similarity
+<h1> A Content-Based Movie Recommendation System using Cosine Similarity </h1>
 
 
-This is my First ML Project. 
-First Data Preprocessing is done.
-You can download data from Kaggle 
-I have used TMDB movies and credit data set
-Pre Processed it.
-Then generate a function Recommendation.
+This is my first ML Project. <br>
+First Data Preprocessing is done.<br>
+You can download data from Kaggle <br>
+I have used TMDB movies and credit dataset <br>
+Pre-processed it.<br>
+Then generate a function Recommendation.<br>
 I have used PYcharm to create the Frontend
